@@ -20,25 +20,31 @@ Folder Encryptor is a Python script that allows users to securely encrypt and de
 1. Clone this repository or download the script file.
 2. Install the required libraries using pip:
   if windows:
-   ```bash
+
+   ```
    pip install -r requirements.txt
    ```
 
+
   if linux:
-   ```bash
+
+   ```
     pip3 install -r requirements.txt
-    ```
+   ```
+  
 3. Run the script using the following command:
 
   if windows:
-   ```bash
+
+   ```
    python main.py
    ```
 
   if linux:
-   ```bash
+  
+   ```
     python3 main.py
-    ```
+   ```
 
 ## Usage
 1. Run the script and select the desired operation (encrypt or decrypt).
